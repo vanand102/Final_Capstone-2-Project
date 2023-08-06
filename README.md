@@ -3,6 +3,10 @@
 
 According to the World Health Organization (WHO) strokes are the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. By using stroke data for over 5000 individuals, I created a tool to help predict given certain data point, whether an individual is likely to have a stroke.
 
+===============================
+
+# Project Organization
+
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── interim        <- Intermediate data that has been transformed.
