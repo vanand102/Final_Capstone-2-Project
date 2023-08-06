@@ -9,7 +9,7 @@ According to the World Health Organization (WHO) strokes are the 2nd leading cau
 
 ├── README.md          <- The top-level README for developers using this project.   
 ├── data  
- │  ├── interim        <- Intermediate data that has been transformed.  
+│   ├── interim        <- Intermediate data that has been transformed.  
 │       └── Stroke_data_2.csv  
         └── Stroke_data_3.csv  
 │   ├── processed      <- The final, canonical data sets for modeling.  
