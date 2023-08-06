@@ -13,16 +13,16 @@ According to the World Health Organization (WHO) strokes are the 2nd leading cau
 │       └── Stroke_data_2.csv  
         └── Stroke_data_3.csv  
 │   ├── processed      <- The final, canonical data sets for modeling.  
-│       └── Final_Stroke_Data.csv
-│   └── raw            <- The original, immutable data dump.
-│       └── healthcare-dataset-stroke-data.csv
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│   ├── 1.0-Capstone2_DataWrangling.ipynb
-│   ├── 2.0-Capstone2_EDA.ipynb
-│   ├── 3.0-Capstone2_Pre_Processing.ipynb
-│   └── 4.0-Capstone2_Modeling.ipynb
-│
-├── reports             <- Analysis and reports
-│   ├── Final Capstone_Report.docx
-│   └── Final Capstone 2 Presentation.pptx
+│       └── Final_Stroke_Data.csv  
+│   └── raw            <- The original, immutable data dump.   
+│       └── healthcare-dataset-stroke-data.csv   
+│   
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),   
+│   ├── 1.0-Capstone2_DataWrangling.ipynb    
+│   ├── 2.0-Capstone2_EDA.ipynb   
+│   ├── 3.0-Capstone2_Pre_Processing.ipynb   
+│   └── 4.0-Capstone2_Modeling.ipynb   
+│   
+├── reports             <- Analysis and reports   
+│   ├── Final Capstone_Report.docx   
+│   └── Final Capstone 2 Presentation.pptx   
